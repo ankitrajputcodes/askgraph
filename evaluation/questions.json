@@ -1,0 +1,14 @@
+[
+  {"question":"What is the time complexity of binary search?", "source":"algorithms.md", "contains":"O(log n)"},
+  {"question":"Which algorithm explores graph nodes with a queue?", "source":"algorithms.md", "contains":"breadth-first"},
+  {"question":"How does merge sort divide an array?", "source":"algorithms.md", "contains":"Merge sort"},
+  {"question":"How does a database index speed up lookup queries?", "source":"databases.md", "contains":"B-tree"},
+  {"question":"What does atomicity mean in ACID transactions?", "source":"databases.md", "contains":"Atomicity"},
+  {"question":"What does the SQL GROUP BY clause do?", "source":"databases.md", "contains":"aggregate"},
+  {"question":"How does virtual memory use page tables?", "source":"operating_systems.md", "contains":"physical memory"},
+  {"question":"What condition causes a deadlock?", "source":"operating_systems.md", "contains":"Circular wait"},
+  {"question":"What happens during a context switch?", "source":"operating_systems.md", "contains":"restores"},
+  {"question":"What is overfitting and how can regularization help?", "source":"machine_learning.md", "contains":"unseen"},
+  {"question":"How does gradient descent update parameters?", "source":"machine_learning.md", "contains":"loss function"},
+  {"question":"What is retrieval augmented generation?", "source":"machine_learning.md", "contains":"retrieved evidence"}
+]
